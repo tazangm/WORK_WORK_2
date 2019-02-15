@@ -9,7 +9,7 @@ public class Course2 {
 
 		ArrayList<String> names =new ArrayList<String>();
 		Scanner scan = new Scanner(System.in);
-
+  
 		int p=6;
 
 		int k =1;
